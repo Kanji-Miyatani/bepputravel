@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34759267.css",
+    "main.js": "/static/js/main.285c38e0.js",
+    "static/js/787.9bfe3ec2.chunk.js": "/static/js/787.9bfe3ec2.chunk.js",
+    "static/media/yunotsubo.jpg": "/static/media/yunotsubo.c11871bf5fac6ab44de4.jpg",
+    "static/media/floral.jpg": "/static/media/floral.e238b6edb70ca951efd9.jpg",
+    "static/media/main_sp.jpg": "/static/media/main_sp.873092d57686f0dc87cd.jpg",
+    "static/media/jigoku.jpg": "/static/media/jigoku.3661c43402f61295de8e.jpg",
+    "static/media/omiya.jpg": "/static/media/omiya.949e6b099f02884b9527.jpg",
+    "static/media/station-b.jpg": "/static/media/station-b.ffc0316f71d46ae2a511.jpg",
+    "static/media/yado.jpg": "/static/media/yado.3f5079d8a9c5214cddaf.jpg",
+    "static/media/main.jpg": "/static/media/main.93759050f72e27728f5f.jpg",
+    "index.html": "/index.html",
+    "main.34759267.css.map": "/static/css/main.34759267.css.map",
+    "main.285c38e0.js.map": "/static/js/main.285c38e0.js.map",
+    "787.9bfe3ec2.chunk.js.map": "/static/js/787.9bfe3ec2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34759267.css",
+    "static/js/main.285c38e0.js"
+  ]
+}
